@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: #F472B6;
+    
+}
+
+.head {
+    background-color: #b4bbc4;
+    padding: 0.5rem;
+    /* padding-bottom: 0.7rem; */
+    
+    
+}
+
+#title {
+    text-align: left;
+    margin-left: 1rem;
+    color: #1D4ED8;
+   
+    
+}
+
+nav {
+    text-align: right;
+    /* margin: 1rem; */
+    margin-right: 0.5rem;
+    
+    
+}
+
+.side-input {
+    height: 2rem;
+    width: 30%;
+    border-radius: 0.5rem;
+    border-color: tomato;
+    
+    /* display: block; */
+}
+
+#hypotenuse-btn {
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 0.2rem;
+    background-color: turquoise;
+    padding: 0.5rem;
+
+    
+}
+
+#output {
+    font-size: 120%;
+    font-style: italic;
+    padding: 2rem;
+
+    
+}
+.input-lable{
+    font-size: 120%;
+    font-weight: 700;
+    color: #1D4ED8;
+    display: block;
+    padding: 2rem;
+
+} 
